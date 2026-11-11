@@ -1,4 +1,4 @@
-# Assamese Ergativity Dataset
+# Assamese Ergativity and Grammatical Voice Dataset
 
 This repository contains **audio recordings** and **transcription files** from the Assamese Ergativity project.
 
@@ -8,7 +8,7 @@ This repository contains **audio recordings** and **transcription files** from t
 -- Contains the raw audio recordings in their original format.
 
 - [📂 Transcription Files (ZIP)](https://drive.google.com/file/d/1HMtuTk7PrP6XvZZS67UqB_vWxDCogdfF/view?usp=sharing)
--- Contains text transcriptions of the audio recordings.
+https://docs.google.com/spreadsheets/d/1j5CCEJBB7arlSsvKaKFs7vvHAx94AuDtbBjaH70q-Lc/edit?usp=sharing-- Contains text transcriptions of the audio recordings.
 
 ## 📂 File Structure  
 ```text
@@ -33,7 +33,7 @@ Assamese Ergativity/
 │   │   └── ...
 │   ├── Other varieties transcription final/
 │   │   └── ...
-│   ├── 
+│   ├── Assamese voice project transcription.xlsx
 │   │   └── ...
 │   └── 
 │       └──
@@ -46,13 +46,14 @@ Please ensure you have the necessary permissions and ethical approvals before us
 
 ## 🧾 Description  
 
-This dataset contains audio recordings and transcriptions of Assamese Ergativity discourse collected in 2023-24. The research examines the micro-variational perspective of the Ergative case system in various regions of Assam.  
-Key findings highlight:  
+This dataset contains audio recordings and transcriptions of Assamese Ergativity discourse collected in 2023-24. The research examines the micro-variational perspective of the Ergative case system in various regions of Assam. This repository also contains the Assamese data for the voice project.
+Key findings highlight (Ergativity):  
 - Patterns of ergativity in the varieties  
 - The analysis of the split and optional case system 
 - Apart from morphosyntactic analysis, this study deals with the semantics and discourse-based analysis too.
-
-- **Number of participants**: 77  
+Key findings highlight (Grammatical Voice):
+- Usage of different types of voice constructions in Assamese natural conversation
+- **Number of participants**: 77 (Ergativity) and 50 (Voice)
 - **Data types**: Audio recordings (MP3) and transcriptions (xlsx)  
 - **Key variables**:  
   - Number of speakers  
