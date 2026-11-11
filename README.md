@@ -1,6 +1,6 @@
 # Assamese Ergativity and Grammatical Voice Dataset
 
-This repository contains **audio recordings** and **transcription files** from the Assamese Ergativity project.
+This repository contains **audio recordings** and **transcription files** from the Assamese Ergativity and Assamese voice project.
 
 ## Files
 
